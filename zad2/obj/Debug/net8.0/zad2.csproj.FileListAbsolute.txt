@@ -1,0 +1,14 @@
+C:\Siana 9A\Arrays_9a\zad2\bin\Debug\net8.0\zad2.exe
+C:\Siana 9A\Arrays_9a\zad2\bin\Debug\net8.0\zad2.deps.json
+C:\Siana 9A\Arrays_9a\zad2\bin\Debug\net8.0\zad2.runtimeconfig.json
+C:\Siana 9A\Arrays_9a\zad2\bin\Debug\net8.0\zad2.dll
+C:\Siana 9A\Arrays_9a\zad2\bin\Debug\net8.0\zad2.pdb
+C:\Siana 9A\Arrays_9a\zad2\obj\Debug\net8.0\zad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Siana 9A\Arrays_9a\zad2\obj\Debug\net8.0\zad2.AssemblyInfoInputs.cache
+C:\Siana 9A\Arrays_9a\zad2\obj\Debug\net8.0\zad2.AssemblyInfo.cs
+C:\Siana 9A\Arrays_9a\zad2\obj\Debug\net8.0\zad2.csproj.CoreCompileInputs.cache
+C:\Siana 9A\Arrays_9a\zad2\obj\Debug\net8.0\zad2.dll
+C:\Siana 9A\Arrays_9a\zad2\obj\Debug\net8.0\refint\zad2.dll
+C:\Siana 9A\Arrays_9a\zad2\obj\Debug\net8.0\zad2.pdb
+C:\Siana 9A\Arrays_9a\zad2\obj\Debug\net8.0\zad2.genruntimeconfig.cache
+C:\Siana 9A\Arrays_9a\zad2\obj\Debug\net8.0\ref\zad2.dll

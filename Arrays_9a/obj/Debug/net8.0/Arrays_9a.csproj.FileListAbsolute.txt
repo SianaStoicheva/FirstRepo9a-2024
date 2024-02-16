@@ -1,0 +1,14 @@
+C:\Siana 9A\Arrays_9a\Arrays_9a\obj\Debug\net8.0\Arrays_9a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Siana 9A\Arrays_9a\Arrays_9a\obj\Debug\net8.0\Arrays_9a.AssemblyInfoInputs.cache
+C:\Siana 9A\Arrays_9a\Arrays_9a\obj\Debug\net8.0\Arrays_9a.AssemblyInfo.cs
+C:\Siana 9A\Arrays_9a\Arrays_9a\obj\Debug\net8.0\Arrays_9a.csproj.CoreCompileInputs.cache
+C:\Siana 9A\Arrays_9a\Arrays_9a\bin\Debug\net8.0\Arrays_9a.exe
+C:\Siana 9A\Arrays_9a\Arrays_9a\bin\Debug\net8.0\Arrays_9a.deps.json
+C:\Siana 9A\Arrays_9a\Arrays_9a\bin\Debug\net8.0\Arrays_9a.runtimeconfig.json
+C:\Siana 9A\Arrays_9a\Arrays_9a\bin\Debug\net8.0\Arrays_9a.dll
+C:\Siana 9A\Arrays_9a\Arrays_9a\bin\Debug\net8.0\Arrays_9a.pdb
+C:\Siana 9A\Arrays_9a\Arrays_9a\obj\Debug\net8.0\Arrays_9a.dll
+C:\Siana 9A\Arrays_9a\Arrays_9a\obj\Debug\net8.0\refint\Arrays_9a.dll
+C:\Siana 9A\Arrays_9a\Arrays_9a\obj\Debug\net8.0\Arrays_9a.pdb
+C:\Siana 9A\Arrays_9a\Arrays_9a\obj\Debug\net8.0\Arrays_9a.genruntimeconfig.cache
+C:\Siana 9A\Arrays_9a\Arrays_9a\obj\Debug\net8.0\ref\Arrays_9a.dll
