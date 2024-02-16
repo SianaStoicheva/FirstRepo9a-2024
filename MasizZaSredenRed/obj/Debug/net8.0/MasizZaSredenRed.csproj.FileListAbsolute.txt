@@ -1,0 +1,15 @@
+C:\Siana 9A\Arrays_9a\MasizZaSredenRed\bin\Debug\net8.0\MasizZaSredenRed.exe
+C:\Siana 9A\Arrays_9a\MasizZaSredenRed\bin\Debug\net8.0\MasizZaSredenRed.deps.json
+C:\Siana 9A\Arrays_9a\MasizZaSredenRed\bin\Debug\net8.0\MasizZaSredenRed.runtimeconfig.json
+C:\Siana 9A\Arrays_9a\MasizZaSredenRed\bin\Debug\net8.0\MasizZaSredenRed.dll
+C:\Siana 9A\Arrays_9a\MasizZaSredenRed\bin\Debug\net8.0\MasizZaSredenRed.pdb
+C:\Siana 9A\Arrays_9a\MasizZaSredenRed\obj\Debug\net8.0\MasizZaSredenRed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Siana 9A\Arrays_9a\MasizZaSredenRed\obj\Debug\net8.0\MasizZaSredenRed.AssemblyInfoInputs.cache
+C:\Siana 9A\Arrays_9a\MasizZaSredenRed\obj\Debug\net8.0\MasizZaSredenRed.AssemblyInfo.cs
+C:\Siana 9A\Arrays_9a\MasizZaSredenRed\obj\Debug\net8.0\MasizZaSredenRed.csproj.CoreCompileInputs.cache
+C:\Siana 9A\Arrays_9a\MasizZaSredenRed\obj\Debug\net8.0\MasizZaSredenRed.sourcelink.json
+C:\Siana 9A\Arrays_9a\MasizZaSredenRed\obj\Debug\net8.0\MasizZaSredenRed.dll
+C:\Siana 9A\Arrays_9a\MasizZaSredenRed\obj\Debug\net8.0\refint\MasizZaSredenRed.dll
+C:\Siana 9A\Arrays_9a\MasizZaSredenRed\obj\Debug\net8.0\MasizZaSredenRed.pdb
+C:\Siana 9A\Arrays_9a\MasizZaSredenRed\obj\Debug\net8.0\MasizZaSredenRed.genruntimeconfig.cache
+C:\Siana 9A\Arrays_9a\MasizZaSredenRed\obj\Debug\net8.0\ref\MasizZaSredenRed.dll
